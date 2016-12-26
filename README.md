@@ -1,8 +1,8 @@
 <!-- $theme: default -->
 
-# Let's talk about <strong style="color:#e74c3c;font-size:70px">CDN</strong>
+# <strong style="color:#e74c3c;font-size:100px">CDN</strong>
 ## &&
-# <strong style="color:#3498db;font-size:70px">Microsoft</strong> Open Source
+# <strong style="color:#3498db;font-size:100px">Microsoft</strong> Open Source
 
 ---
 
@@ -10,6 +10,7 @@
 1. What is CDN
 2. Why we need CDN 
 3. KKBox
+4. Microsoft
 
 ---
 
@@ -17,6 +18,7 @@
 
 + Content Delivery Network
 + Content Distribution Network
+![](http://i2.wp.com/nitroxenon.com/wp-content/uploads/2014/10/cdn.jpg?zoom=2&resize=565%2C375)
 
 ---
 
